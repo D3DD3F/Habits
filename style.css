@@ -52,7 +52,7 @@ button {
   display: flex;
   flex-direction: column;
 
-  gap: 24px;
+  gap: 28px;
 }
 
 .habit {
@@ -62,20 +62,26 @@ button {
   font-size: 32px;
 
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
+.habit span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
 .days {
   display: flex;
-  gap: 48px;
+  gap: 28px;
   margin-left: 32px;
 }
 
 .day {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 28px;
 }
 
 .day div {
@@ -101,6 +107,7 @@ input {
   border-radius: 8px;
 
   background: #18181b;
+  cursor: pointer;
 }
 
 input:checked {
