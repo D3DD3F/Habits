@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-Projeto realizado para lembrar as tarefas diarias que devem ser realizadas. <br/>
+Projeto realizado para monitorar e lembrar das tarefas diarias que devem ser realizadas. <br/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Habits é um app para ajudar a monitorar os hábitos.
 
 - [Visite o projeto online](https://d3dd3f.github.io/Habits)
 
