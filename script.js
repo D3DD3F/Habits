@@ -25,3 +25,5 @@ function save() {
 const data = JSON.parse(localStorage.getItem("MarcosComar@habits")) || {}
 mainForm.setData(data)
 mainForm.load()
+
+
